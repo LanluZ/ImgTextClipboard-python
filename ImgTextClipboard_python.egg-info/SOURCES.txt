@@ -1,6 +1,5 @@
 README.rst
 setup.py
-ImgTextClipboard/__init__.py
 ImgTextClipboard_python.egg-info/PKG-INFO
 ImgTextClipboard_python.egg-info/SOURCES.txt
 ImgTextClipboard_python.egg-info/dependency_links.txt
