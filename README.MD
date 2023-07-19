@@ -1,6 +1,18 @@
 # ImgTextClipboard-python
 
-提供四个可使用的方法
+## 使用
+
+在终端中输入
+
+    pip install ImgTextClipboard-python
+
+导入
+    
+```python
+import ImgTextClipboard
+```
+
+## 方法
 
 **copyTextFormClipboard()**：
 从剪贴板获取文本
