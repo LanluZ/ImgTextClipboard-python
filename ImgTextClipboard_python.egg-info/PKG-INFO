@@ -1,10 +1,11 @@
 Metadata-Version: 2.1
 Name: ImgTextClipboard-python
-Version: 0.1
+Version: 0.1.1
 Summary: Convenient to operate clipboard related images by oneself
 Home-page: https://github.com/LanluZ/ImgTextClipboard-python
 Author: LanluZ
+Keywords: image,copy,paste,windows,clipboard
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System :: OS Independent
+Classifier: Operating System :: Windows
 Description-Content-Type: text/markdown
