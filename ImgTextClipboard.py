@@ -18,7 +18,7 @@ def copyImgFormClipboard():
     从剪贴板读取Image图片
     :return: Image
     """
-    ImageGrab.grabclipboard()
+    return ImageGrab.grabclipboard()
 
 
 def pasteImgToClipboard(image):
